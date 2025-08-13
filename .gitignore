@@ -1,0 +1,2 @@
+echo session/ > .gitignore
+echo settings ori.js >> .gitignore
